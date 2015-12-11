@@ -43,6 +43,7 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/bin/quipc_main:/system/bin/quipc_main \
         vendor/oneplus/oneplus2/proprietary/bin/radish:/system/bin/radish \
         vendor/oneplus/oneplus2/proprietary/bin/rfs_access:/system/bin/rfs_access \
+        vendor/oneplus/oneplus2/proprietary/bin/rild:/system/bin/rild \
         vendor/oneplus/oneplus2/proprietary/bin/rmt_storage:/system/bin/rmt_storage \
         vendor/oneplus/oneplus2/proprietary/bin/sensors.qcom:/system/bin/sensors.qcom \
         vendor/oneplus/oneplus2/proprietary/bin/thermal-engine:/system/bin/thermal-engine \
@@ -105,12 +106,14 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/lib/libopcameralib.so:/system/lib/libopcameralib.so \
         vendor/oneplus/oneplus2/proprietary/lib/libparam.so:/system/lib/libparam.so \
         vendor/oneplus/oneplus2/proprietary/lib/libqomx_core.so:/system/lib/libqomx_core.so \
+        vendor/oneplus/oneplus2/proprietary/lib/libril.so:/system/lib/libril.so \
         vendor/oneplus/oneplus2/proprietary/lib/librmnetctl.so:/system/lib/librmnetctl.so \
         vendor/oneplus/oneplus2/proprietary/lib64/hw/lights.msm8994.so:/system/lib64/hw/lights.msm8994.so \
         vendor/oneplus/oneplus2/proprietary/lib64/hw/sensors.hal.tof.so:/system/lib64/hw/sensors.hal.tof.so \
         vendor/oneplus/oneplus2/proprietary/lib64/libopcamera.so:/system/lib64/libopcamera.so \
         vendor/oneplus/oneplus2/proprietary/lib64/libopcameralib.so:/system/lib64/libopcameralib.so \
         vendor/oneplus/oneplus2/proprietary/lib64/libparam.so:/system/lib64/libparam.so \
+        vendor/oneplus/oneplus2/proprietary/lib64/libril.so:/system/lib64/libril.so \
         vendor/oneplus/oneplus2/proprietary/lib64/librmnetctl.so:/system/lib64/librmnetctl.so \
         vendor/oneplus/oneplus2/proprietary/vendor/bin/audioflacapp:/system/vendor/bin/audioflacapp \
         vendor/oneplus/oneplus2/proprietary/vendor/bin/qti:/system/vendor/bin/qti \
